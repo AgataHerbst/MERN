@@ -12,7 +12,7 @@ export default function AutPage() {
     });
 
     useEffect(() => {
-        console.log('Error', error)
+        //console.log('Error', error)
         message(error)
         clearError()
     }, [error, message, clearError])
