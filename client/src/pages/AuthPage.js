@@ -1,6 +1,6 @@
 import { useContext, useState, useEffect } from 'react';
-import { useHttp }  from '../hooks/http.hook';
-import { useMessage } from '../hooks/message.hook';
+import  useHttp from '../hooks/http.hook';
+import  useMessage from '../hooks/message.hook';
 import {AuthContext} from '../context/AuthContext';
 
 export default function AutPage() {

@@ -1,6 +1,6 @@
 import 'materialize-css';
 import AuthPage from './pages/AuthPage';
-import {useAuth} from './hooks/auth.hook';
+import useAuth from './hooks/auth.hook';
 import {AuthContext} from './context/AuthContext'
 
 export default function App() {
