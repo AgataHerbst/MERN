@@ -2,4 +2,4 @@
     "port": 5000,
     "jwtSecret": "agata mern", 
     "mongoUrl": "mongodb+srv://alina26gerb4:1234querty@cluster0.iqsdj6k.mongodb.net/app?retryWrites=true&w=majority"
- }
+}
